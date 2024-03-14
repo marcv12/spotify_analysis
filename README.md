@@ -4,6 +4,7 @@ This project aims to predict song duration in Spotify's top 200 charts and class
 
 
 ## Installation
+The full script you need is located in the `spotify_analysis.ipynb` notebook.
 To run the project, please install the following libraries:
 
 - gdown
