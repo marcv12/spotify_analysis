@@ -2,6 +2,8 @@
 
 This project aims to predict song duration in Spotify's top 200 charts and classify artists as one-hit wonders or stars using data from Spotify's top 200 playlists from 2017 to 2023. The project combines generic variables like artist names and nationalities with engagement metrics like danceability and points accumulated.
 
+## Report
+If you are too lazy to check the code out, the final report for the project is in the `spotify_analysis.pdf` folder
 
 ## Installation
 The full script you need is located in the `spotify_analysis.ipynb` notebook.
@@ -65,6 +67,8 @@ The notebook will download the dataset from the provided Google Drive link and p
 ## Results
 
 The project demonstrates the effectiveness of machine learning models in predicting song duration and artist stardom using data from Spotify. The insights gained from this analysis can be used by Spotify to identify rising stars and predict the chart durations of their hits, enabling smarter, dual-focused marketing efforts.
+
+
 
 ## Future Work
 
